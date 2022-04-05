@@ -1,0 +1,3 @@
+server:
+  context-path: "/taxi"
+  port : 8081

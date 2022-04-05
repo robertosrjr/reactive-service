@@ -1,0 +1,10 @@
+/home/roberto/Documents/developer/repository/java/spring-boot/reactive-service/src/main/java/com/gmail/robertosrjr/reactiveservice/framework/exception/GlobalControllerExceptionHandler.java
+/home/roberto/Documents/developer/repository/java/spring-boot/reactive-service/src/main/java/com/gmail/robertosrjr/reactiveservice/framework/adapter/in/router/TaxiRouter.java
+/home/roberto/Documents/developer/repository/java/spring-boot/reactive-service/src/main/java/com/gmail/robertosrjr/reactiveservice/ReactiveServiceApplication.java
+/home/roberto/Documents/developer/repository/java/spring-boot/reactive-service/src/main/java/com/gmail/robertosrjr/reactiveservice/domain/model/Fare.java
+/home/roberto/Documents/developer/repository/java/spring-boot/reactive-service/src/main/java/com/gmail/robertosrjr/reactiveservice/application/exception/TaxiFareException.java
+/home/roberto/Documents/developer/repository/java/spring-boot/reactive-service/src/main/java/com/gmail/robertosrjr/reactiveservice/domain/model/TaxiRide.java
+/home/roberto/Documents/developer/repository/java/spring-boot/reactive-service/src/main/java/com/gmail/robertosrjr/reactiveservice/framework/adapter/in/handler/TaxiHandler.java
+/home/roberto/Documents/developer/repository/java/spring-boot/reactive-service/src/main/java/com/gmail/robertosrjr/reactiveservice/application/port/in/TaxiFareCalculatorPortIn.java
+/home/roberto/Documents/developer/repository/java/spring-boot/reactive-service/src/main/java/com/gmail/robertosrjr/reactiveservice/application/usecase/TaxiFareCalculatorUseCase.java
+/home/roberto/Documents/developer/repository/java/spring-boot/reactive-service/src/main/java/com/gmail/robertosrjr/reactiveservice/domain/Taxi.java
