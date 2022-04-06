@@ -4,6 +4,7 @@ import com.gmail.robertosrjr.reactiveservice.application.usecase.TaxiFareCalcula
 import com.gmail.robertosrjr.reactiveservice.domain.Taxi;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Mono;
 
