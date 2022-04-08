@@ -7,5 +7,11 @@
    - HandlerFunction
    - RouterFunction
  - Reactive REST Application
+ - resilience4j
+   - CircuitBreaker
+   - RateLimiter
+   - Bulkhead
+   - Retry
+   - TimeLimiter
  - Cache
    - caffeine (or redis)
